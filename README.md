@@ -1,4 +1,6 @@
-## Hi there 👋
+## Productivity Bot
+
+Hello, Productivity Bot is here, from [Productivity Directory](https://productivity.directory)
 
 <!--
 **productivitybot/ProductivityBot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
